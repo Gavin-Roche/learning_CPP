@@ -1,0 +1,2 @@
+# Learning C++
+This repository contains files from when I first started learning C++. The code here is mostly beginner level and was written to help me understand the basics of the language. It includes small practice programs, simple examples, and a few experiments I tried while getting comfortable with C++ syntax and concepts.
