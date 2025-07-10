@@ -1,0 +1,2 @@
+# Basic Concept Demonstrations
+This folder contains small-scale test programs designed to demonstrate fundamental programming concepts. Some were created in a classroom setting while others were written independently for personal learning and experimentation.
