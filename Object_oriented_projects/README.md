@@ -1,0 +1,2 @@
+# Learning_object_oriented_programming
+This folder contains projects focused on object-oriented programming (OOP). While still simple, they demonstrate fundamental OOP principles, such as using classes and objects.
